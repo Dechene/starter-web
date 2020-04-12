@@ -16,3 +16,6 @@ I dunno, do something.
 
 ### Rebasing text!
 These changes are coming feATUREbranch
+
+### Stash
+New stash remark

@@ -13,3 +13,5 @@ I dunno, do something.
 ### Copyright
 
 2020 Git.Training
+
+### Rebasing text!
